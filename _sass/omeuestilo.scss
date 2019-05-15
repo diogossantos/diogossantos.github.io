@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Akronin');
 $mytype:'Akronim', cursive;
+$brandcolor: black;
 
 body {
 	font-family: $mytype;
@@ -7,12 +8,4 @@ body {
 
 a {
 	color: $brandcolor;
-}  8
-
-a {
-	@include cordaletra;
-}
-
-h2 {
-	@include cordaletra;
-}
+}  
