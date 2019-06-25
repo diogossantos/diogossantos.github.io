@@ -1,11 +1,10 @@
-title: My Jekyll DXD Blog
-author: Daniel da Silva
-email: email@example.com
+title: Diogo Santos Design
+author: Diogo Santos
+email: diogossantos@outlook.com
 description: > # this means to ignore newlines until "exclude"
-  This is a demo site used for the class of
-  "Linguagens e Tecnologias Digitais" about Jekyll
+  Olá! Chamo-me Diogo Santos, tenho 26 anos de idade e sou brasileiro, de Florianópolis, Santa Catarina. Estou em Portugal desde Setembro de 2017, quando iniciei meus estudos de intercâmbio no IADE - Universidade Europeia. Depois de um ano, concluí meus estudos de Graduação no Brasil, ao mesmo tempo que finalizei as aulas no IADE. Estudei principalmente as áreas de Design Gráfico, Branding e Web Design. Atualmente estou a especializar-me em digital experience design, com foco para aárea de User Experience Design.
 
-baseurl: /jekyll-dxd
+baseurl: /diogossantos
 
 exclude:
   - Gemfile
@@ -20,6 +19,6 @@ date_format: "%b %-d, %Y"
 
 # generate social links in footer
 social_links:
-  twitter: danielfdsilva
-  github:  danielfdsilva
-  # facebook:
+  twitter: diogossantos
+  github:  diogossantos
+  facebook: diogossantos
