@@ -1,18 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Akronin');
-$mytype:'Akronim', cursive;
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+$mytype: 'Roboto', sans-serif;
+$brandcolor: #24A2EC;
 
 body {
-	font-family: $mytype;
+    background-color: pink;
+    font-family: $mytype; 
 }
+    
+@mixin cordaletra {
+    color: $brandcolor;
+    text-decoration: underline;
+    font-size: italic;
+    }
 
 a {
-	color: $brandcolor;
-}  8
-
-a {
-	@include cordaletra;
+    @include cordaletra;  
 }
 
+    
 h2 {
-	@include cordaletra;
+    @include cordaletra;
+    
 }
