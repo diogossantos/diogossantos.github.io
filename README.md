@@ -16,3 +16,6 @@ utilizadas neste projeto:
 
 - GitHub: Das muitas razões que existem para se usar esta ferramenta, vou falar apenas 3: [1] Ela é ótima para a criação de repositórios remotos, e também para o armazenamento e atualização de projetos em apenas um local e de modo seguro; [2] É um ambiente colaborativo, no qual outras pessoas podem oferecer correções, edições e até sugerir novas features para o seu projeto; [3] E a última vantagem é que ele pode servir como Portfólio, como foi a intenção deste exercício.
 
+- Form: Inclui um formulário simples no footer com o objetivo de simular o envio de uma mensagem e email do "cliente" para mim, como forma de contacto.
+
+
